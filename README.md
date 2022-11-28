@@ -23,3 +23,8 @@ Using packer:
 ```
 Plug 'awelormro/Todo-highlight.vim'
 ```
+
+## TODO
+
+- Add custom highlight groups.
+- Add doc.txt file.
